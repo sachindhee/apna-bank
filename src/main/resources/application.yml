@@ -1,0 +1,10 @@
+#spring:
+ # data:
+  #  mongodb:
+   #   uri: mongodb+srv://root:Yadav420@cluster0.umipslq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+    #  database: apna-bank
+     # auto-index-creation: true
+
+
+#sarver:
+  #port: 8080
