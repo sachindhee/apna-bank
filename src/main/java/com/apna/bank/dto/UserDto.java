@@ -4,7 +4,7 @@ import com.apna.bank.Entity.Account;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import lombok.*;
-import org.springframework.data.mongodb.core.mapping.DBRef;
+
 
 @Getter
 @Setter
